@@ -1,0 +1,69 @@
+﻿Exchange,AssetClass,Symbol,Description,Current Price (USD),Time
+AMEX,Equity,BTG,B2Gold Corp,3.58,20190904 14:05:00
+AMEX,Equity,CQP,"Cheniere Energy Partners, LP",43.83,20190904 14:05:00
+AMEX,Equity,LNG,"Cheniere Energy, Inc.",59.71,20190904 14:05:00
+AMEX,Equity,SIM,"Grupo Simec, S.A. de C.V.",9.59,20190904 14:05:00
+AMEX,Equity,IMO,Imperial Oil Limited,24.53,20190904 14:05:00
+AMEX,Equity,MAG,MAG Silver Corporation,12.75,20190904 14:05:00
+AMEX,Equity,NHC,National HealthCare Corporation,80.8,20190904 14:05:00
+AMEX,Equity,NG,Novagold Resources Inc.,7.44,20190904 14:05:00
+AMEX,Equity,PRK,Park National Corporation,90.08,20190904 14:05:00
+AMEX,Equity,SAND          ,Sandstorm Gold Ltd,6.23,20190904 14:05:00
+AMEX,Equity,SEB,Seaboard Corporation,4130.18,20190904 14:05:00
+AMEX,Equity,SRCI,SRC Energy Inc.,5.02,20190904 14:05:00
+AMEX,Equity,TMP,Tompkins Financial Corporation,79.1,20190904 14:05:00
+NASDAQ,Equity,ADBE,Adobe Inc.,284.51,20190904 14:05:00
+NASDAQ,Equity,ALRM,"Alarm.com Holdings, Inc.",47.6,20190904 14:05:00
+NASDAQ,Equity,GOOG,Alphabet Inc.,1188.1,20190904 14:05:00
+NASDAQ,Equity,ALTR,Altair Engineering Inc.,34.36,20190904 14:05:00
+NASDAQ,Equity,AAPL,Apple Inc.,208.74,20190904 14:05:00
+NASDAQ,Equity,TEAM,Atlassian Corporation Plc,134.51,20190904 14:05:00
+NASDAQ,Equity,BIDU,"Baidu, Inc.",104.47,20190904 14:05:00
+NASDAQ,Equity,CARG,"CarGurus, Inc.",32.62,20190904 14:05:00
+NASDAQ,Equity,CRUS,"Cirrus Logic, Inc.",53.64,20190904 14:05:00
+NASDAQ,Equity,CSCO,"Cisco Systems, Inc.",46.81,20190904 14:05:00
+NASDAQ,Equity,CTXS,"Citrix Systems, Inc.",92.98,20190904 14:05:00
+NASDAQ,Equity,CTSH,Cognizant Technology Solutions Corporation,61.39,20190904 14:05:00
+NASDAQ,Equity,CSOD,"Cornerstone OnDemand, Inc.",52.17,20190904 14:05:00
+NASDAQ,Equity,DOCU,"DocuSign, Inc.",46.69,20190904 14:05:00
+NASDAQ,Equity,DBX,"Dropbox, Inc.",17.9,20190904 14:05:00
+NASDAQ,Equity,FB,"Facebook, Inc.",185.67,20190904 14:05:00
+NASDAQ,Equity,FNSR,Finisar Corporation,22.61,20190904 14:05:00
+NASDAQ,Equity,FISV,"Fiserv, Inc.",106.94,20190904 14:05:00
+NASDAQ,Equity,FIVN,"Five9, Inc.",63.21,20190904 14:05:00
+NASDAQ,Equity,GRPN,"Groupon, Inc.",2.48,20190904 14:05:00
+NASDAQ,Equity,INTU,Intuit Inc.,288.36,20190904 14:05:00
+NASDAQ,Equity,LOGI,Logitech International S.A.,40.74,20190904 14:05:00
+NASDAQ,Equity,LOGM,"LogMein, Inc.",66.84,20190904 14:05:00
+NASDAQ,Equity,MTSI,"MACOM Technology Solutions Holdings, Inc.",19.64,20190904 14:05:00
+NASDAQ,Equity,MRVL,Marvell Technology Group Ltd.,23.97,20190904 14:05:00
+NASDAQ,Equity,MTCH,"Match Group, Inc.",84.8,20190904 14:05:00
+NASDAQ,Equity,MSFT,Microsoft Corporation,137.86,20190904 14:05:00
+NASDAQ,Equity,MSTR,MicroStrategy Incorporated,143.29,20190904 14:05:00
+NASDAQ,Equity,MIME,Mimecast Limited,40.93,20190904 14:05:00
+NASDAQ,Equity,MDB,"MongoDB, Inc.",152.31,20190904 14:05:00
+NASDAQ,Equity,NVDA,NVIDIA Corporation,167.51,20190904 14:05:00
+NASDAQ,Equity,NXPI,NXP Semiconductors N.V.,102.14,20190904 14:05:00
+NASDAQ,Equity,POWI,"Power Integrations, Inc.",89.02,20190904 14:05:00
+NASDAQ,Equity,QCOM,QUALCOMM Incorporated,77.77,20190904 14:05:00
+NASDAQ,Equity,STX,Seagate Technology PLC,50.21,20190904 14:05:00
+NASDAQ,Equity,SPLK,Splunk Inc.,111.82,20190904 14:05:00
+NASDAQ,Equity,SYMC,Symantec Corporation,23.25,20190904 14:05:00
+NASDAQ,Equity,SYNA,Synaptics Incorporated,32.02,20190904 14:05:00
+NASDAQ,Equity,TRVG,trivago N.V.,4.88,20190904 14:05:00
+NASDAQ,Equity,VRSN,"VeriSign, Inc.",203.85,20190904 14:05:00
+NASDAQ,Equity,WB,Weibo Corporation,41.37,20190904 14:05:00
+NASDAQ,Equity,WIX,Wix.com Ltd.,140.25,20190904 14:05:00
+NASDAQ,Equity,ZNGA,Zynga Inc.,5.71,20190904 14:05:00
+NYSE,Equity,BLK,"BlackRock, Inc.",422.56,20190904 14:05:00
+NYSE,Equity,CS,Credit Suisse Group,11.68,20190904 14:05:00
+NYSE,Equity,GS,"Goldman Sachs Group, Inc. (The)",203.91,20190904 14:05:00
+NYSE,Equity,ICE,Intercontinental Exchange Inc.,93.48,20190904 14:05:00
+NYSE,Equity,JEF,Jefferies Financial Group Inc.,18.64,20190904 14:05:00
+NYSE,Equity,MS,Morgan Stanley,41.49,20190904 14:05:00
+NYSE,Equity,NMR,Nomura Holdings Inc ADR,4.06,20190904 14:05:00
+NYSE,Equity,PJC,Piper Jaffray Companies,72.76,20190904 14:05:00
+NYSE,Equity,RJF,"Raymond James Financial, Inc.",78.51,20190904 14:05:00
+NYSE,Equity,SF,Stifel Financial Corporation,53.42,20190904 14:05:00
+NYSE,Equity,SCHW,The Charles Schwab Corporation,38.27,20190904 14:05:00
+NYSE,Equity,WDR,"Waddell & Reed Financial, Inc.",16.17,20190904 14:05:00

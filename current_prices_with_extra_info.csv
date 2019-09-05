@@ -1,0 +1,69 @@
+﻿Exchange,AssetClass,Symbol,Description,Current Price (USD),Time,Market Cap,Sector,Industry
+AMEX,Equity,BTG,B2Gold Corp,3.58,20190904 14:05:00,$3.63B,Basic Industries,Precious Metals
+AMEX,Equity,CQP,"Cheniere Energy Partners, LP",43.83,20190904 14:05:00,$21.21B,Public Utilities,Oil/Gas Transmission
+AMEX,Equity,LNG,"Cheniere Energy, Inc.",59.71,20190904 14:05:00,$15.33B,Public Utilities,Oil/Gas Transmission
+AMEX,Equity,SIM,"Grupo Simec, S.A. de C.V.",9.59,20190904 14:05:00,$1.58B,Basic Industries,Steel/Iron Ore
+AMEX,Equity,IMO,Imperial Oil Limited,24.53,20190904 14:05:00,$18.71B,Energy,Integrated oil Companies
+AMEX,Equity,MAG,MAG Silver Corporation,12.75,20190904 14:05:00,$1.1B,Basic Industries,Precious Metals
+AMEX,Equity,NHC,National HealthCare Corporation,80.8,20190904 14:05:00,$1.24B,Health Care,Hospital/Nursing Management
+AMEX,Equity,NG,Novagold Resources Inc.,7.44,20190904 14:05:00,$2.43B,Basic Industries,Precious Metals
+AMEX,Equity,PRK,Park National Corporation,90.08,20190904 14:05:00,$1.48B,Finance,Major Banks
+AMEX,Equity,SAND          ,Sandstorm Gold Ltd,6.23,20190904 14:05:00,$1.11B,Basic Industries,Precious Metals
+AMEX,Equity,SEB,Seaboard Corporation,4130.18,20190904 14:05:00,$4.81B,Finance,Investment Bankers/Brokers/Service
+AMEX,Equity,SRCI,SRC Energy Inc.,5.02,20190904 14:05:00,$1.22B,Energy,Oil & Gas Production
+AMEX,Equity,TMP,Tompkins Financial Corporation,79.1,20190904 14:05:00,$1.19B,Finance,Major Banks
+NASDAQ,Equity,ADBE,Adobe Inc.,284.51,20190904 14:05:00,$138.11B,Technology,Computer Software: Prepackaged Software
+NASDAQ,Equity,ALRM,"Alarm.com Holdings, Inc.",47.6,20190904 14:05:00,$2.31B,Technology,Computer Software: Prepackaged Software
+NASDAQ,Equity,GOOG,Alphabet Inc.,1188.1,20190904 14:05:00,$823.83B,Technology,"Computer Software: Programming, Data Processing"
+NASDAQ,Equity,ALTR,Altair Engineering Inc.,34.36,20190904 14:05:00,$2.46B,Technology,Computer Software: Prepackaged Software
+NASDAQ,Equity,AAPL,Apple Inc.,208.74,20190904 14:05:00,$943.33B,Technology,Computer Manufacturing
+NASDAQ,Equity,TEAM,Atlassian Corporation Plc,134.51,20190904 14:05:00,$32.55B,Technology,Computer Software: Prepackaged Software
+NASDAQ,Equity,BIDU,"Baidu, Inc.",104.47,20190904 14:05:00,$36.41B,Technology,"Computer Software: Programming, Data Processing"
+NASDAQ,Equity,CARG,"CarGurus, Inc.",32.62,20190904 14:05:00,$3.64B,Technology,EDP Services
+NASDAQ,Equity,CRUS,"Cirrus Logic, Inc.",53.64,20190904 14:05:00,$3.12B,Technology,Semiconductors
+NASDAQ,Equity,CSCO,"Cisco Systems, Inc.",46.81,20190904 14:05:00,$200.38B,Technology,Computer Communications Equipment
+NASDAQ,Equity,CTXS,"Citrix Systems, Inc.",92.98,20190904 14:05:00,$12.17B,Technology,Computer Software: Prepackaged Software
+NASDAQ,Equity,CTSH,Cognizant Technology Solutions Corporation,61.39,20190904 14:05:00,$33.91B,Technology,EDP Services
+NASDAQ,Equity,CSOD,"Cornerstone OnDemand, Inc.",52.17,20190904 14:05:00,$3.17B,Technology,Computer Software: Prepackaged Software
+NASDAQ,Equity,DOCU,"DocuSign, Inc.",46.69,20190904 14:05:00,$8.11B,Technology,Computer Software: Prepackaged Software
+NASDAQ,Equity,DBX,"Dropbox, Inc.",17.9,20190904 14:05:00,$7.4B,Technology,Computer Software: Prepackaged Software
+NASDAQ,Equity,FB,"Facebook, Inc.",185.67,20190904 14:05:00,$529.71B,Technology,"Computer Software: Programming, Data Processing"
+NASDAQ,Equity,FNSR,Finisar Corporation,22.61,20190904 14:05:00,$2.73B,Technology,Semiconductors
+NASDAQ,Equity,FISV,"Fiserv, Inc.",106.94,20190904 14:05:00,$72.69B,Technology,EDP Services
+NASDAQ,Equity,FIVN,"Five9, Inc.",63.21,20190904 14:05:00,$3.83B,Technology,EDP Services
+NASDAQ,Equity,GRPN,"Groupon, Inc.",2.48,20190904 14:05:00,$1.41B,Technology,Advertising
+NASDAQ,Equity,INTU,Intuit Inc.,288.36,20190904 14:05:00,$74.76B,Technology,Computer Software: Prepackaged Software
+NASDAQ,Equity,LOGI,Logitech International S.A.,40.74,20190904 14:05:00,$6.78B,Technology,Computer peripheral equipment
+NASDAQ,Equity,LOGM,"LogMein, Inc.",66.84,20190904 14:05:00,$3.3B,Technology,Computer Software: Prepackaged Software
+NASDAQ,Equity,MTSI,"MACOM Technology Solutions Holdings, Inc.",19.64,20190904 14:05:00,$1.3B,Technology,Semiconductors
+NASDAQ,Equity,MRVL,Marvell Technology Group Ltd.,23.97,20190904 14:05:00,$15.84B,Technology,Semiconductors
+NASDAQ,Equity,MTCH,"Match Group, Inc.",84.8,20190904 14:05:00,$23.83B,Technology,"Computer Software: Programming, Data Processing"
+NASDAQ,Equity,MSFT,Microsoft Corporation,137.86,20190904 14:05:00,$1052.62B,Technology,Computer Software: Prepackaged Software
+NASDAQ,Equity,MSTR,MicroStrategy Incorporated,143.29,20190904 14:05:00,$1.47B,Technology,Computer Software: Prepackaged Software
+NASDAQ,Equity,MIME,Mimecast Limited,40.93,20190904 14:05:00,$2.53B,Technology,Computer Software: Prepackaged Software
+NASDAQ,Equity,MDB,"MongoDB, Inc.",152.31,20190904 14:05:00,$8.43B,Technology,Computer Software: Prepackaged Software
+NASDAQ,Equity,NVDA,NVIDIA Corporation,167.51,20190904 14:05:00,$102.01B,Technology,Semiconductors
+NASDAQ,Equity,NXPI,NXP Semiconductors N.V.,102.14,20190904 14:05:00,$28.47B,Technology,Semiconductors
+NASDAQ,Equity,POWI,"Power Integrations, Inc.",89.02,20190904 14:05:00,$2.61B,Technology,Semiconductors
+NASDAQ,Equity,QCOM,QUALCOMM Incorporated,77.77,20190904 14:05:00,$94.54B,Technology,Radio And Television Broadcasting And Communications Equipment
+NASDAQ,Equity,STX,Seagate Technology PLC,50.21,20190904 14:05:00,$13.51B,Technology,Electronic Components
+NASDAQ,Equity,SPLK,Splunk Inc.,111.82,20190904 14:05:00,$16.79B,Technology,Computer Software: Prepackaged Software
+NASDAQ,Equity,SYMC,Symantec Corporation,23.25,20190904 14:05:00,$14.37B,Technology,Computer Software: Prepackaged Software
+NASDAQ,Equity,SYNA,Synaptics Incorporated,32.02,20190904 14:05:00,$1.05B,Technology,Semiconductors
+NASDAQ,Equity,TRVG,trivago N.V.,4.88,20190904 14:05:00,$1.72B,Technology,EDP Services
+NASDAQ,Equity,VRSN,"VeriSign, Inc.",203.85,20190904 14:05:00,$24.13B,Technology,EDP Services
+NASDAQ,Equity,WB,Weibo Corporation,41.37,20190904 14:05:00,$9.31B,Technology,"Computer Software: Programming, Data Processing"
+NASDAQ,Equity,WIX,Wix.com Ltd.,140.25,20190904 14:05:00,$6.99B,Technology,"Computer Software: Programming, Data Processing"
+NASDAQ,Equity,ZNGA,Zynga Inc.,5.71,20190904 14:05:00,$5.38B,Technology,EDP Services
+NYSE,Equity,BLK,"BlackRock, Inc.",422.56,20190904 14:05:00,$65.66B,Finance,Investment Bankers/Brokers/Service
+NYSE,Equity,CS,Credit Suisse Group,11.68,20190904 14:05:00,$29.29B,Finance,Investment Bankers/Brokers/Service
+NYSE,Equity,GS,"Goldman Sachs Group, Inc. (The)",203.91,20190904 14:05:00,$73.32B,Finance,Investment Bankers/Brokers/Service
+NYSE,Equity,ICE,Intercontinental Exchange Inc.,93.48,20190904 14:05:00,$52.39B,Finance,Investment Bankers/Brokers/Service
+NYSE,Equity,JEF,Jefferies Financial Group Inc.,18.64,20190904 14:05:00,$5.59B,Finance,Investment Bankers/Brokers/Service
+NYSE,Equity,MS,Morgan Stanley,41.49,20190904 14:05:00,$68.57B,Finance,Investment Bankers/Brokers/Service
+NYSE,Equity,NMR,Nomura Holdings Inc ADR,4.06,20190904 14:05:00,$13.5B,Finance,Investment Bankers/Brokers/Service
+NYSE,Equity,PJC,Piper Jaffray Companies,72.76,20190904 14:05:00,$1.03B,Finance,Investment Bankers/Brokers/Service
+NYSE,Equity,RJF,"Raymond James Financial, Inc.",78.51,20190904 14:05:00,$10.9B,Finance,Investment Bankers/Brokers/Service
+NYSE,Equity,SF,Stifel Financial Corporation,53.42,20190904 14:05:00,$3.72B,Finance,Investment Bankers/Brokers/Service
+NYSE,Equity,SCHW,The Charles Schwab Corporation,38.27,20190904 14:05:00,$50.03B,Finance,Investment Bankers/Brokers/Service
+NYSE,Equity,WDR,"Waddell & Reed Financial, Inc.",16.17,20190904 14:05:00,$1.18B,Finance,Investment Bankers/Brokers/Service
